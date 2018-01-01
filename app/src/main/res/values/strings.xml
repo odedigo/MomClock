@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">שעון</string>
+    <string name="now">עכשיו</string>
+    <string name="early">מוקדם בבוקר</string>
+    <string name="morning">בבוקר</string>
+    <string name="noon">בצהריים</string>
+    <string name="after_noon">אחרי הצהריים</string>
+    <string name="evening">בערב</string>
+    <string name="night">בלילה</string>
+
+    <string name="sunday">ראשון</string>
+    <string name="monday">שני</string>
+    <string name="tuesday">שלישי</string>
+    <string name="wednesday">רביעי</string>
+    <string name="thursday">חמישי</string>
+    <string name="friday">שישי</string>
+    <string name="saturday">שבת</string>
+
+    <string name="jan">ינואר</string>
+    <string name="feb">פברואר</string>
+    <string name="mar">מרץ</string>
+    <string name="apr">אפריל</string>
+    <string name="may">מאי</string>
+    <string name="jun">יוני</string>
+    <string name="jul">יולי</string>
+    <string name="aug">אוגוסט</string>
+    <string name="sep">ספטמבר</string>
+    <string name="oct">אוקטובר</string>
+    <string name="nov">נובמבר</string>
+    <string name="dec">דצמבר</string>
+
+    <string name="today_is">היום יום </string>
+    <string name="is_the"> ה-</string>
+    <string name="settings">הגדרות</string>
+    <string name="in">ב</string>
+
+    <string name="close_text">לסגור את השעון?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+</resources>
